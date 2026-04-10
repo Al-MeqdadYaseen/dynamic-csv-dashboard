@@ -59,7 +59,3 @@ A dynamic, interactive React dashboard that automatically parses and visualizes 
    - **Category (List icon)**: Select a string/categorical column to group your data by.
    - **Line Axis (Calendar icon)**: Select a date or sequential column for the line chart's X-axis.
 4. Click **Upload New** to clear the current data and visualize a different file.
-
-## License
-
-MIT
